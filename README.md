@@ -22,8 +22,8 @@ portfolio
 
 **📈 Estadísticas de GitHub / GitHub Stats**
 
-[![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=radical)](https://github.com/TuUsuarioGitHub)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=radical)](https://github.com/TuUsuarioGitHub)
+[![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JotaDevZ&show_icons=true&theme=radical)](https://github.com/TuUsuarioGitHub)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JotaDevZ&layout=compact&theme=radical)](https://github.com/TuUsuarioGitHub)
 
 ---
 
